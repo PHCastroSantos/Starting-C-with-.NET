@@ -1,0 +1,15 @@
+D:\Estudos\C#\User input\bin\Debug\net10.0\User input.exe
+D:\Estudos\C#\User input\bin\Debug\net10.0\User input.deps.json
+D:\Estudos\C#\User input\bin\Debug\net10.0\User input.runtimeconfig.json
+D:\Estudos\C#\User input\bin\Debug\net10.0\User input.dll
+D:\Estudos\C#\User input\bin\Debug\net10.0\User input.pdb
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.AssemblyInfoInputs.cache
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.AssemblyInfo.cs
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.sourcelink.json
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.dll
+D:\Estudos\C#\User input\obj\Debug\net10.0\refint\User input.dll
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.pdb
+D:\Estudos\C#\User input\obj\Debug\net10.0\User input.genruntimeconfig.cache
+D:\Estudos\C#\User input\obj\Debug\net10.0\ref\User input.dll

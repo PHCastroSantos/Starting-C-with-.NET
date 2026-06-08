@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj": {}
+    "D:\\Estudos\\C#\\User input\\User input.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj": {
+    "D:\\Estudos\\C#\\User input\\User input.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj",
-        "projectName": "Conversion of types",
-        "projectPath": "d:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\User input\\User input.csproj",
+        "projectName": "User input",
+        "projectPath": "D:\\Estudos\\C#\\User input\\User input.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Conversion of types\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\User input\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
