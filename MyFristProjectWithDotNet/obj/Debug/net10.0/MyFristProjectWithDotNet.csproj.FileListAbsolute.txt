@@ -1,0 +1,14 @@
+D:\Estudos\C#\MyFristProjectWithDotNet\bin\Debug\net10.0\MyFristProjectWithDotNet.exe
+D:\Estudos\C#\MyFristProjectWithDotNet\bin\Debug\net10.0\MyFristProjectWithDotNet.deps.json
+D:\Estudos\C#\MyFristProjectWithDotNet\bin\Debug\net10.0\MyFristProjectWithDotNet.runtimeconfig.json
+D:\Estudos\C#\MyFristProjectWithDotNet\bin\Debug\net10.0\MyFristProjectWithDotNet.dll
+D:\Estudos\C#\MyFristProjectWithDotNet\bin\Debug\net10.0\MyFristProjectWithDotNet.pdb
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.AssemblyInfoInputs.cache
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.AssemblyInfo.cs
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.dll
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\refint\MyFristProjectWithDotNet.dll
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.pdb
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\MyFristProjectWithDotNet.genruntimeconfig.cache
+D:\Estudos\C#\MyFristProjectWithDotNet\obj\Debug\net10.0\ref\MyFristProjectWithDotNet.dll
