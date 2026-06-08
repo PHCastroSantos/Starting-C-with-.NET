@@ -1,0 +1,15 @@
+D:\Estudos\C#\Scape Sequence\bin\Debug\net10.0\Scape Sequence.exe
+D:\Estudos\C#\Scape Sequence\bin\Debug\net10.0\Scape Sequence.deps.json
+D:\Estudos\C#\Scape Sequence\bin\Debug\net10.0\Scape Sequence.runtimeconfig.json
+D:\Estudos\C#\Scape Sequence\bin\Debug\net10.0\Scape Sequence.dll
+D:\Estudos\C#\Scape Sequence\bin\Debug\net10.0\Scape Sequence.pdb
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.AssemblyInfoInputs.cache
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.AssemblyInfo.cs
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.sourcelink.json
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.dll
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\refint\Scape Sequence.dll
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.pdb
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\Scape Sequence.genruntimeconfig.cache
+D:\Estudos\C#\Scape Sequence\obj\Debug\net10.0\ref\Scape Sequence.dll
