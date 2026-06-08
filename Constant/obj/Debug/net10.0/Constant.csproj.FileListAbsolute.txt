@@ -1,0 +1,15 @@
+D:\Estudos\C#\Constant\bin\Debug\net10.0\Constant.exe
+D:\Estudos\C#\Constant\bin\Debug\net10.0\Constant.deps.json
+D:\Estudos\C#\Constant\bin\Debug\net10.0\Constant.runtimeconfig.json
+D:\Estudos\C#\Constant\bin\Debug\net10.0\Constant.dll
+D:\Estudos\C#\Constant\bin\Debug\net10.0\Constant.pdb
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.AssemblyInfoInputs.cache
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.AssemblyInfo.cs
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.sourcelink.json
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.dll
+D:\Estudos\C#\Constant\obj\Debug\net10.0\refint\Constant.dll
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.pdb
+D:\Estudos\C#\Constant\obj\Debug\net10.0\Constant.genruntimeconfig.cache
+D:\Estudos\C#\Constant\obj\Debug\net10.0\ref\Constant.dll
