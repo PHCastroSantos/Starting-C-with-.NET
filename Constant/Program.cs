@@ -7,6 +7,6 @@ Console.WriteLine($"The value of PI is: {pi}");
 
 //If we try to change this value, it give us an error.
 
-pi = 50;
+//pi = 50;
 
 Console.WriteLine($"The new value of PI is: {pi}");

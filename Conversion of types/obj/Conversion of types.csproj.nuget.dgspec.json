@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Constant\\Constant.csproj": {}
+    "D:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Constant\\Constant.csproj": {
+    "D:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Constant\\Constant.csproj",
-        "projectName": "Constant",
-        "projectPath": "d:\\Estudos\\C#\\Constant\\Constant.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj",
+        "projectName": "Conversion of types",
+        "projectPath": "D:\\Estudos\\C#\\Conversion of types\\Conversion of types.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Constant\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Conversion of types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\Estudos\C#\Conversion of types\bin\Debug\net10.0\Conversion of types.exe
+D:\Estudos\C#\Conversion of types\bin\Debug\net10.0\Conversion of types.deps.json
+D:\Estudos\C#\Conversion of types\bin\Debug\net10.0\Conversion of types.runtimeconfig.json
+D:\Estudos\C#\Conversion of types\bin\Debug\net10.0\Conversion of types.dll
+D:\Estudos\C#\Conversion of types\bin\Debug\net10.0\Conversion of types.pdb
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.AssemblyInfoInputs.cache
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.AssemblyInfo.cs
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.sourcelink.json
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.dll
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\refint\Conversion of types.dll
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.pdb
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\Conversion of types.genruntimeconfig.cache
+D:\Estudos\C#\Conversion of types\obj\Debug\net10.0\ref\Conversion of types.dll
