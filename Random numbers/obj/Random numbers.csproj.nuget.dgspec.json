@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\C#\\Arithmetic Operators\\Arithmetic Operators.csproj": {}
+    "D:\\Estudos\\C#\\Random numbers\\Random numbers.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\C#\\Arithmetic Operators\\Arithmetic Operators.csproj": {
+    "D:\\Estudos\\C#\\Random numbers\\Random numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\C#\\Arithmetic Operators\\Arithmetic Operators.csproj",
-        "projectName": "Arithmetic Operators",
-        "projectPath": "D:\\Estudos\\C#\\Arithmetic Operators\\Arithmetic Operators.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Random numbers\\Random numbers.csproj",
+        "projectName": "Random numbers",
+        "projectPath": "D:\\Estudos\\C#\\Random numbers\\Random numbers.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\C#\\Arithmetic Operators\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Random numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

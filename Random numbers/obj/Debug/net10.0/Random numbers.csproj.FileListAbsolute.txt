@@ -1,0 +1,15 @@
+D:\Estudos\C#\Random numbers\bin\Debug\net10.0\Random numbers.exe
+D:\Estudos\C#\Random numbers\bin\Debug\net10.0\Random numbers.deps.json
+D:\Estudos\C#\Random numbers\bin\Debug\net10.0\Random numbers.runtimeconfig.json
+D:\Estudos\C#\Random numbers\bin\Debug\net10.0\Random numbers.dll
+D:\Estudos\C#\Random numbers\bin\Debug\net10.0\Random numbers.pdb
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.AssemblyInfoInputs.cache
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.AssemblyInfo.cs
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.sourcelink.json
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.dll
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\refint\Random numbers.dll
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.pdb
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\Random numbers.genruntimeconfig.cache
+D:\Estudos\C#\Random numbers\obj\Debug\net10.0\ref\Random numbers.dll
