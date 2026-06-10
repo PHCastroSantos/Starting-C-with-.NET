@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Variables\\Variables.csproj": {}
+    "D:\\Estudos\\C#\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Variables\\Variables.csproj": {
+    "D:\\Estudos\\C#\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Variables\\Variables.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "d:\\Estudos\\C#\\Variables\\Variables.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Variables\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\Estudos\C#\Arithmetic Operators\bin\Debug\net10.0\Arithmetic Operators.exe
+D:\Estudos\C#\Arithmetic Operators\bin\Debug\net10.0\Arithmetic Operators.deps.json
+D:\Estudos\C#\Arithmetic Operators\bin\Debug\net10.0\Arithmetic Operators.runtimeconfig.json
+D:\Estudos\C#\Arithmetic Operators\bin\Debug\net10.0\Arithmetic Operators.dll
+D:\Estudos\C#\Arithmetic Operators\bin\Debug\net10.0\Arithmetic Operators.pdb
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.AssemblyInfoInputs.cache
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.AssemblyInfo.cs
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.sourcelink.json
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.dll
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\refint\Arithmetic Operators.dll
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.pdb
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\Arithmetic Operators.genruntimeconfig.cache
+D:\Estudos\C#\Arithmetic Operators\obj\Debug\net10.0\ref\Arithmetic Operators.dll

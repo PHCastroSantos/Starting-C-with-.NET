@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj": {}
+    "D:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj": {
+    "D:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj",
         "projectName": "Scape Sequence",
-        "projectPath": "d:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Scape Sequence\\Scape Sequence.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Scape Sequence\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Scape Sequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Screen Output\\Screen Output.csproj": {}
+    "D:\\Estudos\\C#\\Screen Output\\Screen Output.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Screen Output\\Screen Output.csproj": {
+    "D:\\Estudos\\C#\\Screen Output\\Screen Output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Screen Output\\Screen Output.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Screen Output\\Screen Output.csproj",
         "projectName": "Screen Output",
-        "projectPath": "d:\\Estudos\\C#\\Screen Output\\Screen Output.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Screen Output\\Screen Output.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Screen Output\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Screen Output\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
