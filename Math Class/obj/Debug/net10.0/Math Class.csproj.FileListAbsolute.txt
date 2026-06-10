@@ -1,0 +1,15 @@
+D:\Estudos\C#\Math Class\bin\Debug\net10.0\Math Class.exe
+D:\Estudos\C#\Math Class\bin\Debug\net10.0\Math Class.deps.json
+D:\Estudos\C#\Math Class\bin\Debug\net10.0\Math Class.runtimeconfig.json
+D:\Estudos\C#\Math Class\bin\Debug\net10.0\Math Class.dll
+D:\Estudos\C#\Math Class\bin\Debug\net10.0\Math Class.pdb
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.AssemblyInfoInputs.cache
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.AssemblyInfo.cs
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.sourcelink.json
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.dll
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\refint\Math Class.dll
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.pdb
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\Math Class.genruntimeconfig.cache
+D:\Estudos\C#\Math Class\obj\Debug\net10.0\ref\Math Class.dll
