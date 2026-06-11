@@ -1,0 +1,15 @@
+D:\Estudos\C#\String methods\bin\Debug\net10.0\String methods.exe
+D:\Estudos\C#\String methods\bin\Debug\net10.0\String methods.deps.json
+D:\Estudos\C#\String methods\bin\Debug\net10.0\String methods.runtimeconfig.json
+D:\Estudos\C#\String methods\bin\Debug\net10.0\String methods.dll
+D:\Estudos\C#\String methods\bin\Debug\net10.0\String methods.pdb
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.AssemblyInfoInputs.cache
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.AssemblyInfo.cs
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.sourcelink.json
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.dll
+D:\Estudos\C#\String methods\obj\Debug\net10.0\refint\String methods.dll
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.pdb
+D:\Estudos\C#\String methods\obj\Debug\net10.0\String methods.genruntimeconfig.cache
+D:\Estudos\C#\String methods\obj\Debug\net10.0\ref\String methods.dll

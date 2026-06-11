@@ -1,0 +1,10 @@
+﻿String fullName = "Pedro Santos";
+//fullName = fullName.ToUpper();
+//fullName = fullName.ToLower();
+//String phoneNumber = "4002-8922";
+//phoneNumber = phoneNumber.Replace("-", "/");
+//String userName = fullName.Insert(0, "@");
+String firstName = fullName.Substring(0, 5);
+String lastName = fullName.Substring(6, 6);
+System.Console.WriteLine(firstName);
+System.Console.WriteLine(lastName);
