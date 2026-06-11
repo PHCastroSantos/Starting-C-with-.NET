@@ -1,0 +1,15 @@
+D:\Estudos\C#\Hypotenuse of a triangle\bin\Debug\net10.0\Hypotenuse of a triangle.exe
+D:\Estudos\C#\Hypotenuse of a triangle\bin\Debug\net10.0\Hypotenuse of a triangle.deps.json
+D:\Estudos\C#\Hypotenuse of a triangle\bin\Debug\net10.0\Hypotenuse of a triangle.runtimeconfig.json
+D:\Estudos\C#\Hypotenuse of a triangle\bin\Debug\net10.0\Hypotenuse of a triangle.dll
+D:\Estudos\C#\Hypotenuse of a triangle\bin\Debug\net10.0\Hypotenuse of a triangle.pdb
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.AssemblyInfoInputs.cache
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.AssemblyInfo.cs
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.sourcelink.json
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.dll
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\refint\Hypotenuse of a triangle.dll
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.pdb
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\Hypotenuse of a triangle.genruntimeconfig.cache
+D:\Estudos\C#\Hypotenuse of a triangle\obj\Debug\net10.0\ref\Hypotenuse of a triangle.dll
