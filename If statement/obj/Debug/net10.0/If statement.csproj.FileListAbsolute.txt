@@ -1,0 +1,15 @@
+D:\Estudos\C#\If statement\bin\Debug\net10.0\If statement.exe
+D:\Estudos\C#\If statement\bin\Debug\net10.0\If statement.deps.json
+D:\Estudos\C#\If statement\bin\Debug\net10.0\If statement.runtimeconfig.json
+D:\Estudos\C#\If statement\bin\Debug\net10.0\If statement.dll
+D:\Estudos\C#\If statement\bin\Debug\net10.0\If statement.pdb
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.AssemblyInfoInputs.cache
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.AssemblyInfo.cs
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.sourcelink.json
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.dll
+D:\Estudos\C#\If statement\obj\Debug\net10.0\refint\If statement.dll
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.pdb
+D:\Estudos\C#\If statement\obj\Debug\net10.0\If statement.genruntimeconfig.cache
+D:\Estudos\C#\If statement\obj\Debug\net10.0\ref\If statement.dll

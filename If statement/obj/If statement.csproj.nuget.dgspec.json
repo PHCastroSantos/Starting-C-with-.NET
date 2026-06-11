@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\String methods\\String methods.csproj": {}
+    "D:\\Estudos\\C#\\If statement\\If statement.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\String methods\\String methods.csproj": {
+    "D:\\Estudos\\C#\\If statement\\If statement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\String methods\\String methods.csproj",
-        "projectName": "String methods",
-        "projectPath": "d:\\Estudos\\C#\\String methods\\String methods.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\If statement\\If statement.csproj",
+        "projectName": "If statement",
+        "projectPath": "D:\\Estudos\\C#\\If statement\\If statement.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\String methods\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\If statement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
