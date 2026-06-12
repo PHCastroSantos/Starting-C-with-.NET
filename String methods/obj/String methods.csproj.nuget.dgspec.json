@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\String methods\\String methods.csproj": {}
+    "D:\\Estudos\\C#\\String methods\\String methods.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\String methods\\String methods.csproj": {
+    "D:\\Estudos\\C#\\String methods\\String methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\String methods\\String methods.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\String methods\\String methods.csproj",
         "projectName": "String methods",
-        "projectPath": "d:\\Estudos\\C#\\String methods\\String methods.csproj",
+        "projectPath": "D:\\Estudos\\C#\\String methods\\String methods.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\String methods\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\String methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

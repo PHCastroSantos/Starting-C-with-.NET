@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj": {}
+    "D:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj": {
+    "D:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj",
         "projectName": "Hypotenuse of a triangle",
-        "projectPath": "d:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Hypotenuse of a triangle\\Hypotenuse of a triangle.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Hypotenuse of a triangle\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Hypotenuse of a triangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
