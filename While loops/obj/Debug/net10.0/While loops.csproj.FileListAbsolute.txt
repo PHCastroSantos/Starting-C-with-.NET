@@ -1,0 +1,15 @@
+D:\Estudos\C#\While loops\bin\Debug\net10.0\While loops.exe
+D:\Estudos\C#\While loops\bin\Debug\net10.0\While loops.deps.json
+D:\Estudos\C#\While loops\bin\Debug\net10.0\While loops.runtimeconfig.json
+D:\Estudos\C#\While loops\bin\Debug\net10.0\While loops.dll
+D:\Estudos\C#\While loops\bin\Debug\net10.0\While loops.pdb
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.AssemblyInfoInputs.cache
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.AssemblyInfo.cs
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.sourcelink.json
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.dll
+D:\Estudos\C#\While loops\obj\Debug\net10.0\refint\While loops.dll
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.pdb
+D:\Estudos\C#\While loops\obj\Debug\net10.0\While loops.genruntimeconfig.cache
+D:\Estudos\C#\While loops\obj\Debug\net10.0\ref\While loops.dll

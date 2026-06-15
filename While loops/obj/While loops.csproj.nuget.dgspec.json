@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\While loops\\While loops.csproj": {}
+    "D:\\Estudos\\C#\\While loops\\While loops.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\While loops\\While loops.csproj": {
+    "D:\\Estudos\\C#\\While loops\\While loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\While loops\\While loops.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\While loops\\While loops.csproj",
         "projectName": "While loops",
-        "projectPath": "d:\\Estudos\\C#\\While loops\\While loops.csproj",
+        "projectPath": "D:\\Estudos\\C#\\While loops\\While loops.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\While loops\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\While loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
