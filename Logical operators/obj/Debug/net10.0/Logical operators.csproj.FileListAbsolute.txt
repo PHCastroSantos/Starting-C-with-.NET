@@ -1,0 +1,15 @@
+D:\Estudos\C#\Logical operators\bin\Debug\net10.0\Logical operators.exe
+D:\Estudos\C#\Logical operators\bin\Debug\net10.0\Logical operators.deps.json
+D:\Estudos\C#\Logical operators\bin\Debug\net10.0\Logical operators.runtimeconfig.json
+D:\Estudos\C#\Logical operators\bin\Debug\net10.0\Logical operators.dll
+D:\Estudos\C#\Logical operators\bin\Debug\net10.0\Logical operators.pdb
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.AssemblyInfoInputs.cache
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.AssemblyInfo.cs
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.sourcelink.json
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.dll
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\refint\Logical operators.dll
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.pdb
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\Logical operators.genruntimeconfig.cache
+D:\Estudos\C#\Logical operators\obj\Debug\net10.0\ref\Logical operators.dll
