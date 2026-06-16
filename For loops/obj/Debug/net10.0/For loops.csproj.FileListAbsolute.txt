@@ -1,0 +1,15 @@
+D:\Estudos\C#\For loops\bin\Debug\net10.0\For loops.exe
+D:\Estudos\C#\For loops\bin\Debug\net10.0\For loops.deps.json
+D:\Estudos\C#\For loops\bin\Debug\net10.0\For loops.runtimeconfig.json
+D:\Estudos\C#\For loops\bin\Debug\net10.0\For loops.dll
+D:\Estudos\C#\For loops\bin\Debug\net10.0\For loops.pdb
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.AssemblyInfoInputs.cache
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.AssemblyInfo.cs
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.sourcelink.json
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.dll
+D:\Estudos\C#\For loops\obj\Debug\net10.0\refint\For loops.dll
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.pdb
+D:\Estudos\C#\For loops\obj\Debug\net10.0\For loops.genruntimeconfig.cache
+D:\Estudos\C#\For loops\obj\Debug\net10.0\ref\For loops.dll

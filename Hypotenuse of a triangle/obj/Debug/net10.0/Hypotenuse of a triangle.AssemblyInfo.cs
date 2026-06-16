@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hypotenuse of a triangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0194a3e1065d519958e873535e706e9fcc31cd48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f74ae0c4618bd99b8caa05714717530ba21b73")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hypotenuse of a triangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hypotenuse of a triangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
