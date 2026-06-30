@@ -1,0 +1,15 @@
+D:\Estudos\C#\Nested loops\bin\Debug\net10.0\Nested loops.exe
+D:\Estudos\C#\Nested loops\bin\Debug\net10.0\Nested loops.deps.json
+D:\Estudos\C#\Nested loops\bin\Debug\net10.0\Nested loops.runtimeconfig.json
+D:\Estudos\C#\Nested loops\bin\Debug\net10.0\Nested loops.dll
+D:\Estudos\C#\Nested loops\bin\Debug\net10.0\Nested loops.pdb
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.AssemblyInfoInputs.cache
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.AssemblyInfo.cs
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.sourcelink.json
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.dll
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\refint\Nested loops.dll
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.pdb
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\Nested loops.genruntimeconfig.cache
+D:\Estudos\C#\Nested loops\obj\Debug\net10.0\ref\Nested loops.dll

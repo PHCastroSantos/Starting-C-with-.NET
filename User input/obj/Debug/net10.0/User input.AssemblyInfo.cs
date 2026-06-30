@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("User input")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f74ae0c4618bd99b8caa05714717530ba21b73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e42a0b69249773d8ecf1f27111c308c049501a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("User input")]
 [assembly: System.Reflection.AssemblyTitleAttribute("User input")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
