@@ -1,7 +1,7 @@
 ﻿String[] cars = {"BMW", "Ferrari", "Mustang", "Corvette"};
 cars[2] = "Tesla";
 
-for (int i = 0; i < cars.Length; i++)
+foreach (String car in cars)
 {
-    System.Console.WriteLine(cars[i]);
-};
+    System.Console.WriteLine(car);
+}
