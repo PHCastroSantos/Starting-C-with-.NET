@@ -1,0 +1,15 @@
+D:\Estudos\C#\Method overloading\bin\Debug\net10.0\Method overloading.exe
+D:\Estudos\C#\Method overloading\bin\Debug\net10.0\Method overloading.deps.json
+D:\Estudos\C#\Method overloading\bin\Debug\net10.0\Method overloading.runtimeconfig.json
+D:\Estudos\C#\Method overloading\bin\Debug\net10.0\Method overloading.dll
+D:\Estudos\C#\Method overloading\bin\Debug\net10.0\Method overloading.pdb
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.AssemblyInfoInputs.cache
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.AssemblyInfo.cs
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.sourcelink.json
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.dll
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\refint\Method overloading.dll
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.pdb
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\Method overloading.genruntimeconfig.cache
+D:\Estudos\C#\Method overloading\obj\Debug\net10.0\ref\Method overloading.dll

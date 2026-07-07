@@ -1,0 +1,15 @@
+D:\Estudos\C#\Keyword\bin\Debug\net10.0\Keyword.exe
+D:\Estudos\C#\Keyword\bin\Debug\net10.0\Keyword.deps.json
+D:\Estudos\C#\Keyword\bin\Debug\net10.0\Keyword.runtimeconfig.json
+D:\Estudos\C#\Keyword\bin\Debug\net10.0\Keyword.dll
+D:\Estudos\C#\Keyword\bin\Debug\net10.0\Keyword.pdb
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.AssemblyInfoInputs.cache
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.AssemblyInfo.cs
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.sourcelink.json
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.dll
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\refint\Keyword.dll
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.pdb
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\Keyword.genruntimeconfig.cache
+D:\Estudos\C#\Keyword\obj\Debug\net10.0\ref\Keyword.dll
