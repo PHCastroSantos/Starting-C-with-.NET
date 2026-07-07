@@ -1,0 +1,15 @@
+D:\Estudos\C#\Params Keyword\bin\Debug\net10.0\Params Keyword.exe
+D:\Estudos\C#\Params Keyword\bin\Debug\net10.0\Params Keyword.deps.json
+D:\Estudos\C#\Params Keyword\bin\Debug\net10.0\Params Keyword.runtimeconfig.json
+D:\Estudos\C#\Params Keyword\bin\Debug\net10.0\Params Keyword.dll
+D:\Estudos\C#\Params Keyword\bin\Debug\net10.0\Params Keyword.pdb
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.AssemblyInfoInputs.cache
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.AssemblyInfo.cs
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.sourcelink.json
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.dll
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\refint\Params Keyword.dll
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.pdb
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\Params Keyword.genruntimeconfig.cache
+D:\Estudos\C#\Params Keyword\obj\Debug\net10.0\ref\Params Keyword.dll

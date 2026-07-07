@@ -1,0 +1,15 @@
+D:\Estudos\C#\Exception handling\bin\Debug\net10.0\Exception handling.exe
+D:\Estudos\C#\Exception handling\bin\Debug\net10.0\Exception handling.deps.json
+D:\Estudos\C#\Exception handling\bin\Debug\net10.0\Exception handling.runtimeconfig.json
+D:\Estudos\C#\Exception handling\bin\Debug\net10.0\Exception handling.dll
+D:\Estudos\C#\Exception handling\bin\Debug\net10.0\Exception handling.pdb
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.AssemblyInfoInputs.cache
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.AssemblyInfo.cs
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.sourcelink.json
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.dll
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\refint\Exception handling.dll
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.pdb
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\Exception handling.genruntimeconfig.cache
+D:\Estudos\C#\Exception handling\obj\Debug\net10.0\ref\Exception handling.dll
