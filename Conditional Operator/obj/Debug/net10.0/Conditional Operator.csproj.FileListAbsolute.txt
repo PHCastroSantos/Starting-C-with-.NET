@@ -1,0 +1,15 @@
+D:\Estudos\C#\Conditional Operator\bin\Debug\net10.0\Conditional Operator.exe
+D:\Estudos\C#\Conditional Operator\bin\Debug\net10.0\Conditional Operator.deps.json
+D:\Estudos\C#\Conditional Operator\bin\Debug\net10.0\Conditional Operator.runtimeconfig.json
+D:\Estudos\C#\Conditional Operator\bin\Debug\net10.0\Conditional Operator.dll
+D:\Estudos\C#\Conditional Operator\bin\Debug\net10.0\Conditional Operator.pdb
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.AssemblyInfoInputs.cache
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.AssemblyInfo.cs
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.sourcelink.json
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.dll
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\refint\Conditional Operator.dll
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.pdb
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\Conditional Operator.genruntimeconfig.cache
+D:\Estudos\C#\Conditional Operator\obj\Debug\net10.0\ref\Conditional Operator.dll
