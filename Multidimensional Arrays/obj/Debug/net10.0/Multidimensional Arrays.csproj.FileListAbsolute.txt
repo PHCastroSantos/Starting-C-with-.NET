@@ -1,0 +1,15 @@
+D:\Estudos\C#\Multidimensional Arrays\bin\Debug\net10.0\Multidimensional Arrays.exe
+D:\Estudos\C#\Multidimensional Arrays\bin\Debug\net10.0\Multidimensional Arrays.deps.json
+D:\Estudos\C#\Multidimensional Arrays\bin\Debug\net10.0\Multidimensional Arrays.runtimeconfig.json
+D:\Estudos\C#\Multidimensional Arrays\bin\Debug\net10.0\Multidimensional Arrays.dll
+D:\Estudos\C#\Multidimensional Arrays\bin\Debug\net10.0\Multidimensional Arrays.pdb
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.AssemblyInfo.cs
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.sourcelink.json
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.dll
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\refint\Multidimensional Arrays.dll
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.pdb
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\Multidimensional Arrays.genruntimeconfig.cache
+D:\Estudos\C#\Multidimensional Arrays\obj\Debug\net10.0\ref\Multidimensional Arrays.dll

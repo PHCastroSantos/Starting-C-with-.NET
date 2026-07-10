@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {}
+    "D:\\Estudos\\C#\\Multidimensional Arrays\\Multidimensional Arrays.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {
+    "D:\\Estudos\\C#\\Multidimensional Arrays\\Multidimensional Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
-        "projectName": "String interpolation",
-        "projectPath": "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Multidimensional Arrays\\Multidimensional Arrays.csproj",
+        "projectName": "Multidimensional Arrays",
+        "projectPath": "D:\\Estudos\\C#\\Multidimensional Arrays\\Multidimensional Arrays.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\String interpolation\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Multidimensional Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
