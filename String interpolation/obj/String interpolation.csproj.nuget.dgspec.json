@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {}
+    "D:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {
+    "D:\\Estudos\\C#\\String interpolation\\String interpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
         "projectName": "String interpolation",
-        "projectPath": "d:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
+        "projectPath": "D:\\Estudos\\C#\\String interpolation\\String interpolation.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\String interpolation\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\String interpolation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
