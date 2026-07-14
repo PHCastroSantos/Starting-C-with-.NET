@@ -1,0 +1,15 @@
+D:\Estudos\C#\Constructors\bin\Debug\net10.0\Constructors.exe
+D:\Estudos\C#\Constructors\bin\Debug\net10.0\Constructors.deps.json
+D:\Estudos\C#\Constructors\bin\Debug\net10.0\Constructors.runtimeconfig.json
+D:\Estudos\C#\Constructors\bin\Debug\net10.0\Constructors.dll
+D:\Estudos\C#\Constructors\bin\Debug\net10.0\Constructors.pdb
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfoInputs.cache
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.AssemblyInfo.cs
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.sourcelink.json
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.dll
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\refint\Constructors.dll
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.pdb
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\Constructors.genruntimeconfig.cache
+D:\Estudos\C#\Constructors\obj\Debug\net10.0\ref\Constructors.dll
