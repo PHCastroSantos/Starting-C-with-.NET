@@ -1,6 +1,6 @@
 ﻿Car car = new Car();
 Bike bike = new Bike();
-Vehicle vehicle = new Vehicle();
+//Vehicle vehicle = new Vehicle();
 
 car.go();
 bike.go();
