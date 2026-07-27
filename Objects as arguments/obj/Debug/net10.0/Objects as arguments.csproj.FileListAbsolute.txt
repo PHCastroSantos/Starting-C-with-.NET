@@ -1,0 +1,15 @@
+D:\Estudos\C#\Objects as arguments\bin\Debug\net10.0\Objects as arguments.exe
+D:\Estudos\C#\Objects as arguments\bin\Debug\net10.0\Objects as arguments.deps.json
+D:\Estudos\C#\Objects as arguments\bin\Debug\net10.0\Objects as arguments.runtimeconfig.json
+D:\Estudos\C#\Objects as arguments\bin\Debug\net10.0\Objects as arguments.dll
+D:\Estudos\C#\Objects as arguments\bin\Debug\net10.0\Objects as arguments.pdb
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.AssemblyInfoInputs.cache
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.AssemblyInfo.cs
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.sourcelink.json
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.dll
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\refint\Objects as arguments.dll
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.pdb
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\Objects as arguments.genruntimeconfig.cache
+D:\Estudos\C#\Objects as arguments\obj\Debug\net10.0\ref\Objects as arguments.dll

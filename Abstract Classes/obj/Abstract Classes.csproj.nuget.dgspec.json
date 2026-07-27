@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj": {}
+    "D:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj": {
+    "D:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj",
         "projectName": "Abstract Classes",
-        "projectPath": "d:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Abstract Classes\\Abstract Classes.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Abstract Classes\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Abstract Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFristProjectWithDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9933ccc0858308fee32ad7fd1579cafe6db468be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31726e8e3e4f91edaeecb8b262bbf9be84cb6476")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFristProjectWithDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFristProjectWithDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
