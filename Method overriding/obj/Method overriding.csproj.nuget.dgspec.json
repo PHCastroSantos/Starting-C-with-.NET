@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {}
+    "D:\\Estudos\\C#\\Method overriding\\Method overriding.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {
+    "D:\\Estudos\\C#\\Method overriding\\Method overriding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
-        "projectName": "Objects as arguments",
-        "projectPath": "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Method overriding\\Method overriding.csproj",
+        "projectName": "Method overriding",
+        "projectPath": "D:\\Estudos\\C#\\Method overriding\\Method overriding.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Objects as arguments\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Method overriding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

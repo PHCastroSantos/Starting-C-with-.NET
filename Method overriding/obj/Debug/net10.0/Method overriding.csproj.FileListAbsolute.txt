@@ -1,0 +1,15 @@
+D:\Estudos\C#\Method overriding\bin\Debug\net10.0\Method overriding.exe
+D:\Estudos\C#\Method overriding\bin\Debug\net10.0\Method overriding.deps.json
+D:\Estudos\C#\Method overriding\bin\Debug\net10.0\Method overriding.runtimeconfig.json
+D:\Estudos\C#\Method overriding\bin\Debug\net10.0\Method overriding.dll
+D:\Estudos\C#\Method overriding\bin\Debug\net10.0\Method overriding.pdb
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.AssemblyInfoInputs.cache
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.AssemblyInfo.cs
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.sourcelink.json
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.dll
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\refint\Method overriding.dll
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.pdb
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\Method overriding.genruntimeconfig.cache
+D:\Estudos\C#\Method overriding\obj\Debug\net10.0\ref\Method overriding.dll
