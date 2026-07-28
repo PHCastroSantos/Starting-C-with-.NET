@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {}
+    "D:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {
+    "D:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
         "projectName": "Objects as arguments",
-        "projectPath": "d:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
+        "projectPath": "D:\\Estudos\\C#\\Objects as arguments\\Objects as arguments.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Objects as arguments\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Objects as arguments\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
