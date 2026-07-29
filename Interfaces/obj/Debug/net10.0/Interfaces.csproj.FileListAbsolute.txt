@@ -1,0 +1,15 @@
+D:\Estudos\C#\Interfaces\bin\Debug\net10.0\Interfaces.exe
+D:\Estudos\C#\Interfaces\bin\Debug\net10.0\Interfaces.deps.json
+D:\Estudos\C#\Interfaces\bin\Debug\net10.0\Interfaces.runtimeconfig.json
+D:\Estudos\C#\Interfaces\bin\Debug\net10.0\Interfaces.dll
+D:\Estudos\C#\Interfaces\bin\Debug\net10.0\Interfaces.pdb
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfoInputs.cache
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfo.cs
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.sourcelink.json
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.dll
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\refint\Interfaces.dll
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.pdb
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\Interfaces.genruntimeconfig.cache
+D:\Estudos\C#\Interfaces\obj\Debug\net10.0\ref\Interfaces.dll
