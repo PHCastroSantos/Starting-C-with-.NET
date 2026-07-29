@@ -1,0 +1,15 @@
+D:\Estudos\C#\Polymorphism\bin\Debug\net10.0\Polymorphism.exe
+D:\Estudos\C#\Polymorphism\bin\Debug\net10.0\Polymorphism.deps.json
+D:\Estudos\C#\Polymorphism\bin\Debug\net10.0\Polymorphism.runtimeconfig.json
+D:\Estudos\C#\Polymorphism\bin\Debug\net10.0\Polymorphism.dll
+D:\Estudos\C#\Polymorphism\bin\Debug\net10.0\Polymorphism.pdb
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.AssemblyInfo.cs
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.sourcelink.json
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.dll
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\refint\Polymorphism.dll
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.pdb
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\Polymorphism.genruntimeconfig.cache
+D:\Estudos\C#\Polymorphism\obj\Debug\net10.0\ref\Polymorphism.dll
