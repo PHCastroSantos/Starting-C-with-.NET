@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nested loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+822a4b06afc7be7a6ec44c912e28312a6bf7a62f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12332e25a18123e94419d643998aac5582e062cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nested loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nested loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
