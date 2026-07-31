@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Lists\\Lists.csproj": {}
+    "D:\\Estudos\\C#\\List of objects\\List of objects.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Lists\\Lists.csproj": {
+    "D:\\Estudos\\C#\\List of objects\\List of objects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Lists\\Lists.csproj",
-        "projectName": "Lists",
-        "projectPath": "d:\\Estudos\\C#\\Lists\\Lists.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\List of objects\\List of objects.csproj",
+        "projectName": "List of objects",
+        "projectPath": "D:\\Estudos\\C#\\List of objects\\List of objects.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Lists\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\List of objects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"

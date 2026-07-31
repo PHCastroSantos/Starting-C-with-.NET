@@ -1,0 +1,15 @@
+D:\Estudos\C#\List of objects\bin\Debug\net10.0\List of objects.exe
+D:\Estudos\C#\List of objects\bin\Debug\net10.0\List of objects.deps.json
+D:\Estudos\C#\List of objects\bin\Debug\net10.0\List of objects.runtimeconfig.json
+D:\Estudos\C#\List of objects\bin\Debug\net10.0\List of objects.dll
+D:\Estudos\C#\List of objects\bin\Debug\net10.0\List of objects.pdb
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.AssemblyInfoInputs.cache
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.AssemblyInfo.cs
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.sourcelink.json
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.dll
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\refint\List of objects.dll
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.pdb
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\List of objects.genruntimeconfig.cache
+D:\Estudos\C#\List of objects\obj\Debug\net10.0\ref\List of objects.dll
