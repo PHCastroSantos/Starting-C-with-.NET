@@ -1,0 +1,15 @@
+D:\Estudos\C#\Getters and Setters\bin\Debug\net10.0\Getters and Setters.exe
+D:\Estudos\C#\Getters and Setters\bin\Debug\net10.0\Getters and Setters.deps.json
+D:\Estudos\C#\Getters and Setters\bin\Debug\net10.0\Getters and Setters.runtimeconfig.json
+D:\Estudos\C#\Getters and Setters\bin\Debug\net10.0\Getters and Setters.dll
+D:\Estudos\C#\Getters and Setters\bin\Debug\net10.0\Getters and Setters.pdb
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.AssemblyInfoInputs.cache
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.AssemblyInfo.cs
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.sourcelink.json
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.dll
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\refint\Getters and Setters.dll
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.pdb
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\Getters and Setters.genruntimeconfig.cache
+D:\Estudos\C#\Getters and Setters\obj\Debug\net10.0\ref\Getters and Setters.dll
