@@ -1,0 +1,15 @@
+D:\Estudos\C#\Auto implemented properties\bin\Debug\net10.0\Auto implemented properties.exe
+D:\Estudos\C#\Auto implemented properties\bin\Debug\net10.0\Auto implemented properties.deps.json
+D:\Estudos\C#\Auto implemented properties\bin\Debug\net10.0\Auto implemented properties.runtimeconfig.json
+D:\Estudos\C#\Auto implemented properties\bin\Debug\net10.0\Auto implemented properties.dll
+D:\Estudos\C#\Auto implemented properties\bin\Debug\net10.0\Auto implemented properties.pdb
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.AssemblyInfoInputs.cache
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.AssemblyInfo.cs
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.csproj.CoreCompileInputs.cache
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.sourcelink.json
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.dll
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\refint\Auto implemented properties.dll
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.pdb
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\Auto implemented properties.genruntimeconfig.cache
+D:\Estudos\C#\Auto implemented properties\obj\Debug\net10.0\ref\Auto implemented properties.dll

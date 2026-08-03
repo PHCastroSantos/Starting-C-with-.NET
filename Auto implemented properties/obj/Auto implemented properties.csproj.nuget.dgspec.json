@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Estudos\\C#\\Getters and Setters\\Getters and Setters.csproj": {}
+    "D:\\Estudos\\C#\\Auto implemented properties\\Auto implemented properties.csproj": {}
   },
   "projects": {
-    "d:\\Estudos\\C#\\Getters and Setters\\Getters and Setters.csproj": {
+    "D:\\Estudos\\C#\\Auto implemented properties\\Auto implemented properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Estudos\\C#\\Getters and Setters\\Getters and Setters.csproj",
-        "projectName": "Getters and Setters",
-        "projectPath": "d:\\Estudos\\C#\\Getters and Setters\\Getters and Setters.csproj",
+        "projectUniqueName": "D:\\Estudos\\C#\\Auto implemented properties\\Auto implemented properties.csproj",
+        "projectName": "Auto implemented properties",
+        "projectPath": "D:\\Estudos\\C#\\Auto implemented properties\\Auto implemented properties.csproj",
         "packagesPath": "C:\\Users\\preda\\.nuget\\packages\\",
-        "outputPath": "d:\\Estudos\\C#\\Getters and Setters\\obj\\",
+        "outputPath": "D:\\Estudos\\C#\\Auto implemented properties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\preda\\AppData\\Roaming\\NuGet\\NuGet.Config"
